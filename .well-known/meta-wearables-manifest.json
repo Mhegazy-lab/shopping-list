@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "name": "Shopping List",
+  "description": "Simple grocery list with check-off and clear-checked.",
+  "appearance": {
+    "theme_color": "#4ADE80",
+    "icon": {
+      "src": "../icon-mono.png",
+      "type": "monochrome"
+    },
+    "icon_background": {
+      "colors": [
+        "#4ADE80",
+        "#2F9E57",
+        "#1B5A33",
+        "#0B0F14"
+      ],
+      "stops": [
+        0.0,
+        0.33,
+        0.66,
+        1.0
+      ],
+      "inner_glow_color": "#BBF7D0"
+    }
+  }
+}
